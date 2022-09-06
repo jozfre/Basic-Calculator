@@ -1,0 +1,12 @@
+D:\Master Folder\CS1103A\CSC301 (VISUAL PROGRAMMING)\Programmes\Basic Calculator\obj\Debug\Basic Calculator.vbproj.AssemblyReference.cache
+D:\Master Folder\CS1103A\CSC301 (VISUAL PROGRAMMING)\Programmes\Basic Calculator\obj\Debug\Basic_Calculator.basicCalculator.resources
+D:\Master Folder\CS1103A\CSC301 (VISUAL PROGRAMMING)\Programmes\Basic Calculator\obj\Debug\Basic_Calculator.Resources.resources
+D:\Master Folder\CS1103A\CSC301 (VISUAL PROGRAMMING)\Programmes\Basic Calculator\obj\Debug\Basic Calculator.vbproj.GenerateResource.cache
+D:\Master Folder\CS1103A\CSC301 (VISUAL PROGRAMMING)\Programmes\Basic Calculator\obj\Debug\Basic Calculator.vbproj.CoreCompileInputs.cache
+D:\Master Folder\CS1103A\CSC301 (VISUAL PROGRAMMING)\Programmes\Basic Calculator\bin\Debug\Basic Calculator.exe.config
+D:\Master Folder\CS1103A\CSC301 (VISUAL PROGRAMMING)\Programmes\Basic Calculator\bin\Debug\Basic Calculator.exe
+D:\Master Folder\CS1103A\CSC301 (VISUAL PROGRAMMING)\Programmes\Basic Calculator\bin\Debug\Basic Calculator.pdb
+D:\Master Folder\CS1103A\CSC301 (VISUAL PROGRAMMING)\Programmes\Basic Calculator\bin\Debug\Basic Calculator.xml
+D:\Master Folder\CS1103A\CSC301 (VISUAL PROGRAMMING)\Programmes\Basic Calculator\obj\Debug\Basic Calculator.exe
+D:\Master Folder\CS1103A\CSC301 (VISUAL PROGRAMMING)\Programmes\Basic Calculator\obj\Debug\Basic Calculator.xml
+D:\Master Folder\CS1103A\CSC301 (VISUAL PROGRAMMING)\Programmes\Basic Calculator\obj\Debug\Basic Calculator.pdb
